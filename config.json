@@ -37,7 +37,7 @@
       "name": "iqiyi资源"
     },
     "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "name": "卧龙资源"
     },
     "jisu": {
